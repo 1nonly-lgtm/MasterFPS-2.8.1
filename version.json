@@ -1,1 +1,5 @@
-{"version":"3.2","download":"https://raw.githubusercontent.com/1nonly-lgtm/MasterFPS-2.8.1/main/MasterFPS-3.2.jar","notes":"- naprawione skrzydla: byl blad lustra, jedno skrzydlo szlo do przodu zamiast byc symetryczne\n- wieksze, lepiej wygiete skrzydla\n- usunieta ItemLapka"}
+{
+  "version": "3.3",
+  "download": "https://github.com/1nonly-lgtm/MasterFPS-2.8.1/releases/download/3.3/MasterFPS-3.3.jar",
+  "notes": "Naprawione skrzydla - teraz naprawde na plecach (nie z przodu), wieksze i duzo ladniejszy wachlarzowy ksztalt zamiast ostrza."
+}
