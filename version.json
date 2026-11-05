@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
-  "download": "https://github.com/1nonly-lgtm/MasterFPS-2.8.1/releases/download/3.3/MasterFPS-3.3.jar",
-  "notes": "Naprawione skrzydla - teraz naprawde na plecach (nie z przodu), wieksze i duzo ladniejszy wachlarzowy ksztalt zamiast ostrza."
+  "version": "3.4",
+  "download": "https://github.com/1nonly-lgtm/MasterFPS-2.8.1/releases/download/3.4/MasterFPS-3.4.jar",
+  "notes": "Skrzydla jako ciagla blona (nietoperz/smok) zamiast klinow z przerwami - koniec z akordeonem. Plus: auto-update teraz pisze na czacie jesli pobieranie sie nie uda, zamiast cicho failowac."
 }
