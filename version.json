@@ -1,5 +1,5 @@
 {
-  "version": "3.5",
-  "download": "https://github.com/1nonly-lgtm/MasterFPS-2.8.1/releases/download/3.5/MasterFPS-3.5.jar",
-  "notes": "Naprawione auto-pobieranie aktualizacji - klient nie podazal za przekierowaniem GitHuba, przez co pobieranie cicho nie dzialalo."
+  "version": "3.6",
+  "download": "https://raw.githubusercontent.com/1nonly-lgtm/MasterFPS-2.8.1/main/MasterFPS-3.6.jar",
+  "notes": "Skrzydla: duzo zywszy ruch i gladszy, zaokraglony ksztalt z poswiata na koncowkach. Plus: stare wersje teraz leca automatycznie do kosza przy aktualizacji."
 }
