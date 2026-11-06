@@ -1,5 +1,1 @@
-{
-  "version": "3.6",
-  "download": "https://raw.githubusercontent.com/1nonly-lgtm/MasterFPS-2.8.1/main/MasterFPS-3.6.jar",
-  "notes": "Skrzydla: duzo zywszy ruch i gladszy, zaokraglony ksztalt z poswiata na koncowkach. Plus: stare wersje teraz leca automatycznie do kosza przy aktualizacji."
-}
+{"version":"3.7","download":"https://raw.githubusercontent.com/1nonly-lgtm/MasterFPS-2.8.1/main/MasterFPS-3.7.jar","notes":"Baritone: GUI do wyszukiwania i kopania kazdego bloku + podswietlanie wszystkich rud w poblizu. Freecam: auto-wylaczanie po obrazeniach + bicie/otwieranie skrzynek przez sciany."}
